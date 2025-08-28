@@ -39,7 +39,7 @@ ClassiCraft is developed and maintained as a **GitHub organization** with dedica
 - **S3** → The development server for the upcoming season.  
 
 We use **GitHub Projects** to track our roadmap and changelogs.  
-- 📌 [Roadmap & Issues](../../projects)  
+- 📌 [Roadmap & Issues](https://github.com/orgs/ClassiCraft/projects/1)  
 - 📰 [Changelog](../../releases)
 
 ---
